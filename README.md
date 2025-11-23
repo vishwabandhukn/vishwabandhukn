@@ -1,4 +1,4 @@
-![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-brightgreen)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2379-brightgreen)
 
 # Hi, I'm Vishwabandhu K N 👋  
 Full-Stack MERN Developer | Passionate about Building Scalable Web Apps  
