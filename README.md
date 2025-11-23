@@ -1,4 +1,4 @@
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishwabandhukn%2Fvishwabandhukn&count=2000)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-brightgreen)
 
 # Hi, I'm Vishwabandhu K N 👋  
 Full-Stack MERN Developer | Passionate about Building Scalable Web Apps  
