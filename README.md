@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vishwabandhu K N<br>🔭 Currently pursuing BE in Information Science and Engineering (2022 - 2026)<br>💬 Ask me about DSA, MERN Stack <br>🌱 I’m currently learning Advanced Backend Development (Node.js, Express.js , MongoDB)<br>📚 I like solving DSA problems and building scalable web apps<br>📫 You can reach me at: vishwabandhukn@gmail.com | LinkedIn
+Hi, I’m Vishwabandhu K N<br>🔭 Currently pursuing BE in Information Science and Engineering (2022 - 2026)<br>💬 Ask me about DSA, MERN Stack <br>🌱 I’m currently learning Advanced Backend Development (Node.js, Express.js , MongoDB)<br>📚 I like solving DSA problems and building scalable web apps<br> 
 
 
 ## 🌐 Socials:
